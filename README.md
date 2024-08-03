@@ -14,6 +14,6 @@ I learned **React** basics with my CountriesAPI project and plan to explore othe
 
 1. Click on Repositories ![Click on Repositories](repositories_click.png)
 2. Choose a project
-3. Visit de live site ![Click on Live-Link](livelink_click.png)
+3. Visit the live site ![Click on Live-Link](livelink_click.png)
 
 </details>
