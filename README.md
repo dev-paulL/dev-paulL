@@ -7,13 +7,15 @@ In recent weeks, I've been improving my front-end skills by taking [frontendment
 I learned **React** basics with my CountriesAPI project and plan to explore other frameworks as well before diving deeper into a particular one. I also plan to explore back-end development.
 
 
-### Start exploring
+### Start exploring 👀
 <details>
   <summary>How to check my projects</summary>
 
 
-1. Click on Repositories ![Click on Repositories](repositories_click.png)
+1. Click on Repositories
+- ![Click on Repositories](repositories_click.png)
 2. Choose a project
-3. Visit the live site ![Click on Live-Link](livelink_click.png)
+3. Visit the live site
+- ![Click on Live-Link](livelink_click.png)
 
 </details>
