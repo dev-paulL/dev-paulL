@@ -4,7 +4,7 @@ I'm Paul, 24, a self-taught developer. This has been my hobby since I was very y
 
 In recent weeks, I've been improving my front-end skills by taking [frontendmentor.io](https://www.frontendmentor.io/) challenges, and reading feedback on both my projects and others' projects on their official discord, or as replies to challenge submissions. Also, I love transmitting my knowledge and sometimes leave feedback on their projects, too.  
 
-I learned **React** basics with my [**Sneakers product e-commerce page**](https://github.com/dev-paulL/ecommerce-sneakers-page) [**CountriesAPI**](https://github.com/dev-paulL/countries-api-vite-react) and [**Desserts with cart**](https://github.com/dev-paulL/dessert-with-cart) projects and plan to explore other frameworks as well before diving deeper into a particular one. I also plan to explore back-end development.
+I learned **React** basics with my [**Sneakers product e-commerce page**](https://github.com/dev-paulL/ecommerce-sneakers-page), [**CountriesAPI**](https://github.com/dev-paulL/countries-api-vite-react) and [**Desserts with cart**](https://github.com/dev-paulL/dessert-with-cart) projects and plan to explore other frameworks as well before diving deeper into a particular one. I also plan to explore back-end development.
 
 
 ### Start exploring 👀
